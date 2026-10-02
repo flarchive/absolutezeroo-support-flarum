@@ -4,7 +4,15 @@ This repository is a permanent, read-only archive of released versions of `absol
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `1.0`
+- **Direct Download (.zip):** [Download 1.0 (.zip)](https://github.com/flarchive/absolutezeroo-support-flarum/archive/refs/tags/archive/v1.0.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/absolutezeroo-support-flarum/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/absolutezeroo-support-flarum.json)
 - Upstream repository: https://github.com/absolutezeroo/flarum-support.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
